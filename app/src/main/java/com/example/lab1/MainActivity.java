@@ -46,6 +46,7 @@ import com.bumptech.glide.Glide;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
+    //
     private RecyclerView recyclerView;
     public static ArrayList<Music> list;
     public static ToggleButton toggleButton, toggleButtonReplay;
